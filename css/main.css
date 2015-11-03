@@ -1,0 +1,34 @@
+body , html{
+	width: 100%;
+	height: 100%;
+}
+.caja-chat{
+	width: 100%;
+	background: #eee;
+	padding: 1%;
+}
+.chat{
+	width: 0% 80%;
+	height: 680px;
+	border: 1px solid #ccc;
+	background: #eee;
+	padding: 1%;
+}
+.chat .alert{
+	color: transparent;
+	background: transparent;
+	border: transparent;
+}
+.input-group{
+	width: 100%;
+	margin-top: 2.3%;
+
+}
+.input-group span{
+	width: 15%;
+	color: white;
+	background: green;
+}
+.caret{
+	color: green;
+}
